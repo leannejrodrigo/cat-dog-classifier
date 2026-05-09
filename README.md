@@ -19,3 +19,16 @@ A deep learning image classification project built using TensorFlow, Streamlit, 
 
 ```bash
 streamlit run app.py
+'''
+
+---
+
+## Live Demo
+
+https://the-cat-dog-classifier.streamlit.app/
+
+---
+
+## Model
+
+This project uses transfer learning with MobileNetV2 for image classification.

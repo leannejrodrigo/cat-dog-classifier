@@ -19,8 +19,7 @@ A deep learning image classification project built using TensorFlow, Streamlit, 
 
 ```bash
 streamlit run app.py
-'''
-
+```
 ---
 
 ## Live Demo

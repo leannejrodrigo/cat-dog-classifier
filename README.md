@@ -19,31 +19,3 @@ A deep learning image classification project built using TensorFlow, Streamlit, 
 
 ```bash
 streamlit run app.py
-
-
----
-
-# STEP 4 — INSTALL GIT
-
-Download:
-
-[Git for Windows](https://git-scm.com/download/win?utm_source=chatgpt.com)
-
-Install with default settings.
-
----
-
-# STEP 5 — Create GitHub Account
-
-If needed:
-
-[GitHub](https://github.com?utm_source=chatgpt.com)
-
----
-
-# STEP 6 — Open Terminal In Project Folder
-
-Run:
-
-```bash id="jlwn0k"
-git init

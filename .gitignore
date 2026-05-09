@@ -1,0 +1,5 @@
+venv/
+dataset/
+test_images/
+__pycache__/
+*.pyc
